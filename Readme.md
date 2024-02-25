@@ -3,6 +3,7 @@
 Welcome to the Microsoft Office Homepage Landing Page repository! This project aims to replicate the aesthetics and functionality of the Microsoft Office homepage using HTML, CSS, and JavaScript. Below you'll find essential information to get started with this project.
 
 ## Preview
+![Uploading landingpage.png…]()
 
 ## Features
 
